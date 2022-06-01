@@ -27,7 +27,7 @@ Move line up: [PRIMARY] + Shift + Up
 Move line down: [PRIMARY] + Shift + Down
 Sort lines: F9
 Sort lines (case sensitive): [PRIMARY] + f9
-Duplicate line: [PRIMARY] + Shift + du
+Duplicate line: [PRIMARY] + Shift + D
 Indent line: [PRIMARY] + ]
 Unindent line: [PRIMARY] + [
 Toggle comments: [PRIMARY] + /
