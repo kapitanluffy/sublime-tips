@@ -5,21 +5,16 @@ import random
 import re
 
 def plugin_loaded():
-    file = path.join(sublime.packages_path(), "hints", "tips.txt");
+    file = path.join(sublime.packages_path(), "Tips", "tips.txt");
     fh = open(file);
-    Hints.hints = fh.readlines()
+    Tips.tips = fh.readlines()
 
-class Hints(sublime_plugin.EventListener):
-    hints = []
+class Tips(sublime_plugin.EventListener):
+    tips = []
 
     def on_activated_async(self, view):
-        settings = sublime.load_settings('Hints.sublime-settings')
-
-        if settings.get("enabled") is False:
-            return
-
-        random.shuffle(self.hints)
-        tip = self.hints[0].strip()
+        random.shuffle(self.tips)
+        tip = self.tips[0].strip()
 
         platform = sublime.platform()
         primaryKey = "Ctrl"

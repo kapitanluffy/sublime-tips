@@ -1,5 +1,5 @@
-💡 Sublime Hints
-Show random tips and hints for Sublime Text
+💡 Sublime Tips
+Show random tips for Sublime Text
 
 Did you know you can `<insert-feature-here>` in Sublime Text?! 🤯
 Exactly! This plugin will remind you of random tips that would hopefully improve your workflow.
@@ -8,7 +8,7 @@ Exactly! This plugin will remind you of random tips that would hopefully improve
 - Allow plugins to add their own tips
 - Allow plugins to override tips
 
-For issues and feedback: https://github.com/kapitanluffy/sublime-hints/issues
+For issues and feedback: https://github.com/kapitanluffy/sublime-tips/issues
 Support us: https://patreon.com/kapitanluffy
 
 Also, thanks to the awesome people on Discord in helping me build this 🎉🎉🎉
