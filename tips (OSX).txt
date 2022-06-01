@@ -1,0 +1,54 @@
+Move tab to a new group: Cmd + K, Cmd + Up
+Create a new group: Cmd + K, Cmd + Shift + Up
+Close group: Cmd + K, Cmd + Down
+Focus to next group: Cmd + K, Cmd + Right
+Focus to previous group: Cmd + K, Cmd + Left
+Move tab to next group: Cmd + K, Cmd + Shift + Right
+Move tab to previous group: Cmd + K, Cmd + Shift + Left
+Focus to group #: Cmd + (1,2,3,4,5,6,7,8,9)
+Focus to sidebar: Cmd + 0
+Move tab to group #: Cmd + Shift + (1,2,3,4,5,6,7,8,9)
+Insert line before: Cmd + Shift + Return
+Insert line after: Cmd + Return
+Go to anything: Cmd + P
+Go to symbol: Cmd + R
+Go to line number: Ctrl + G
+List copied items from clipboard: Cmd + K, Cmd + V
+Delete to beginning of line: Cmd + K, Cmd + Backspace
+Delete to end of line: Cmd + K, Cmd + K
+Delete whole line: Ctrl + Shift + K
+Soft undo: Cmd + U
+Soft redo: Cmd + Shift + U
+Copy line: Cmd + C
+Cut line: Cmd + X
+Soft undo/redo tracks soft actions (e.g. cursor position, highlights)
+Convert line to uppercase: Cmd + K, Cmd + U
+Convert line to lowercase: Cmd + K, Cmd + L
+Join lines: Cmd + Shift + J
+Move line up: Ctrl + Cmd + Up
+Move line down: Ctrl + Cmd + Down
+Sort lines: F5
+Sort lines (case sensitive): Ctrl + F5
+Duplicate line: Cmd + Shift + D
+Indent line: Cmd + ]
+Unindent line: Cmd + [
+Toggle comments: Cmd + /
+Close HTML tag: Cmd + Alt + .
+Wrap lines at ruler: Cmd + Alt + Q
+Move left character to the right of cursor: Ctrl + T
+Select occurrence of word under cursor: Cmd + D
+Skip selected word occurrence: Cmd + K, Cmd + D
+Exact word match: Cmd + D (cursor over word)
+Search symbol (in project): Cmd + Shift + R
+Search symbol (in view): Cmd + R
+Go to definition: F12
+Go to matching bracket: Ctrl + M
+Highlight up to matching brackets: Cmd + Shift + M
+Cursor position (backward): Ctrl + -
+Cursor position (forward): Ctrl + Shift + -
+Fold code: Cmd + Alt + [
+Unfold code: Cmd + Alt + ]
+Open Python console: Ctrl + `
+Open command palette: Cmd + Shift + P
+Open context menu: Alt + F10
+Show scope: Cmd + Alt + P
