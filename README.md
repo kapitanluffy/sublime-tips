@@ -5,8 +5,8 @@
 <p align="center">
 <a href="https://www.sublimetext.com/">
     <img src="https://img.shields.io/badge/Made%20For-Sublime-ff9800?logo=sublime%20text" /></a>
-<a href="https://packagecontrol.io/packages/tips">
-    <img src="https://img.shields.io/packagecontrol/dt/tips" /></a>
+<a href="https://packagecontrol.io/packages/Tips">
+    <img src="https://img.shields.io/packagecontrol/dt/Tips" /></a>
 <a href="https://github.com/kapitanluffy/sublime-tips/releases">
     <img src="https://img.shields.io/github/v/tag/kapitanluffy/sublime-Tips?label=release" /></a>
 <a href="https://patreon.com/kapitanluffy">
