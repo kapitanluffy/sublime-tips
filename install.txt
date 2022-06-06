@@ -12,3 +12,8 @@ For issues and feedback: https://github.com/kapitanluffy/sublime-tips/issues
 Support us: https://patreon.com/kapitanluffy
 
 Also, thanks to the awesome people on Discord in helping me build this 🎉🎉🎉
+
+##### Changelog
+
+v1.1.0
+    - 🐞 Fix critical bug not loading tips file

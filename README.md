@@ -26,6 +26,7 @@ Exactly! This plugin will remind you of random tips that would hopefully improve
 If you know other tips, edit `tips.txt` and create a pull request!
 
 Here are a few guidelines:
+
 - Make it short and sweet. ST's status message is displayed for 5 seconds.
 - Does not need to be a keyboard shortcut. It can also be "facts" (e.g. ST is made by Jon Skinner!)
 

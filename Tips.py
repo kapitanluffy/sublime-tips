@@ -16,10 +16,8 @@ def plugin_loaded():
     if platform == "osx":
         tips = "tips (OSX).txt"
 
-    file = path.join(sublime.packages_path(), "Tips", tips);
-    fh = open(file);
-    Tips.tips = fh.readlines()
-    fh.close()
+    tips = sublime.load_resource(path.join("Packages", "Tips", tips))
+    Tips.tips = tips.splitlines()
 
 class Tips(sublime_plugin.EventListener):
     tips = []
