@@ -17,3 +17,8 @@ Also, thanks to the awesome people on Discord in helping me build this 🎉🎉�
 
 v1.1.0
     - 🐞 Fix critical bug not loading tips file
+
+v1.2.0
+    - Show tips when starting Sublime, disable by calling "Toggle Show Random Tips on Start" command
+    - Display tips in the status bar longer, shows for 60 seconds by default
+    - Add "Show Random Tip" command
