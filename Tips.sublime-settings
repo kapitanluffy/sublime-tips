@@ -1,3 +1,11 @@
 {
-    "show_random_tips_on_start": true
+    // Display a random tip when opening Sublime
+    "show_random_tips_on_start": true,
+
+    // Seconds to show the tips in the status bar
+    // Set to zero (0) to disable
+    "display_seconds": 0,
+
+    // Message format for the tips in the status bar
+    "message_format": "💡 {tip}"
 }

@@ -1,0 +1,18 @@
+[
+    {
+        "caption": "Tips: Toggle Show Random Tips on Start",
+        "command": "tips_toggle_autostart"
+    },
+    {
+        "caption": "Tips: Show Random Tip",
+        "command": "tips_show_random"
+    },
+    {
+        "caption": "Preferences: Tips Settings",
+        "command": "edit_settings",
+        "args": {
+            "base_file": "${packages}/Tips/Tips.sublime-settings",
+            "default": "{\n$0\n}\n"
+        }
+    },
+]
