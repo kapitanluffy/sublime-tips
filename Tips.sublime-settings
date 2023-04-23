@@ -4,7 +4,7 @@
 
     // Seconds to show the tips in the status bar
     // Set to zero (0) to disable
-    "display_seconds": 0,
+    "display_seconds": 60,
 
     // Message format for the tips in the status bar
     "message_format": "💡 {tip}"
